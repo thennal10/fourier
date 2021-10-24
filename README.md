@@ -1,0 +1,1 @@
+A visualization of the Fourier transform, from [this absolute banger of a video](https://www.youtube.com/watch?v=spUNpyF58BY).A very direct implementation, code mostly swiped from [here](https://www.tomesoftware.com/labs/using-fourier-series-draw-svg-images/), currently hardcoded to draw uh, my dad. 
